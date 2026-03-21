@@ -7,3 +7,6 @@ sentence-transformers
 faiss-cpu
 chromadb
 google-genai
+pandas
+openpyxl
+langchain_groq
