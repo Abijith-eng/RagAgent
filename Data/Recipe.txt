@@ -175,3 +175,367 @@ Recipe : Fish Fry
         8. Remove from the pan and serve hot.
 
 ---
+
+Recipe : Paneer Butter Masala
+    **Ingredients**
+        * 200 g paneer (cubed)
+        * 2 tomatoes (pureed)
+        * 1 onion (chopped)
+        * 1 tbsp butter
+        * 1 tsp ginger-garlic paste
+        * 1 tsp garam masala
+        * 2 tbsp cream
+        * Salt to taste
+    **Steps**
+        1. Heat butter in a pan.
+        2. Add onions and sauté until golden.
+        3. Add ginger-garlic paste and cook for 1 minute.
+        4. Add tomato puree and cook until oil separates.
+        5. Add salt and garam masala.
+        6. Add paneer cubes and cook for 5 minutes.
+        7. Add cream and mix well.
+        8. Serve hot.
+
+---
+
+Recipe : Egg Fried Rice
+    **Ingredients**
+        * 2 cups cooked rice
+        * 2 eggs
+        * 1 onion (chopped)
+        * 1 tbsp soy sauce
+        * 1 tbsp oil
+        * Salt to taste
+    **Steps**
+        1. Heat oil in a pan.
+        2. Scramble the eggs and set aside.
+        3. Add onions and sauté.
+        4. Add cooked rice and mix well.
+        5. Add soy sauce and salt.
+        6. Add scrambled eggs and mix.
+        7. Cook for 2–3 minutes.
+        8. Serve hot.
+
+---
+
+Recipe : Vegetable Curry
+    **Ingredients**
+        * 1 cup mixed vegetables
+        * 1 onion (chopped)
+        * 1 tomato (chopped)
+        * 1 tsp turmeric powder
+        * 1 tsp chili powder
+        * 2 tbsp oil
+        * Salt to taste
+    **Steps**
+        1. Heat oil in a pan.
+        2. Add onions and sauté.
+        3. Add tomatoes and cook until soft.
+        4. Add vegetables and spices.
+        5. Add water and cook for 10 minutes.
+        6. Stir occasionally.
+        7. Cook until vegetables are tender.
+        8. Serve hot.
+
+---
+
+Recipe : Lemon Rice
+    **Ingredients**
+        * 2 cups cooked rice
+        * 1 lemon juice
+        * 1 tsp mustard seeds
+        * 2 tbsp peanuts
+        * 1 tbsp oil
+        * Salt to taste
+    **Steps**
+        1. Heat oil in a pan.
+        2. Add mustard seeds and peanuts.
+        3. Add cooked rice and mix well.
+        4. Add salt and lemon juice.
+        5. Mix well.
+        6. Cook for 2 minutes.
+        7. Stir gently.
+        8. Serve hot.
+
+---
+
+Recipe : Chapati
+    **Ingredients**
+        * 2 cups wheat flour
+        * Water
+        * Salt to taste
+    **Steps**
+        1. Mix flour and salt.
+        2. Add water and knead dough.
+        3. Rest for 15 minutes.
+        4. Roll into circles.
+        5. Cook on hot pan.
+        6. Flip and cook both sides.
+        7. Apply ghee if needed.
+        8. Serve hot.
+
+---
+
+Recipe : Curd Rice
+    **Ingredients**
+        * 2 cups cooked rice
+        * 1 cup curd
+        * 1 tsp mustard seeds
+        * 1 tbsp oil
+        * Salt to taste
+    **Steps**
+        1. Mash the rice slightly.
+        2. Add curd and salt.
+        3. Heat oil and add mustard seeds.
+        4. Pour tempering over rice.
+        5. Mix well.
+        6. Adjust salt.
+        7. Chill if desired.
+        8. Serve.
+
+---
+
+Recipe : Poha
+    **Ingredients**
+        * 1 cup poha
+        * 1 onion (chopped)
+        * 1 tsp mustard seeds
+        * 1 tbsp oil
+        * Salt to taste
+    **Steps**
+        1. Wash poha and drain.
+        2. Heat oil in pan.
+        3. Add mustard seeds.
+        4. Add onions and sauté.
+        5. Add poha and salt.
+        6. Mix well.
+        7. Cook for 3 minutes.
+        8. Serve hot.
+
+---
+
+Recipe : Omelette Sandwich
+    **Ingredients**
+        * 2 bread slices
+        * 1 egg
+        * 1 onion (chopped)
+        * 1 tsp oil
+        * Salt to taste
+    **Steps**
+        1. Beat egg with onion and salt.
+        2. Cook omelette in pan.
+        3. Toast bread slices.
+        4. Place omelette between bread.
+        5. Press gently.
+        6. Cut into halves.
+        7. Serve hot.
+        8. Enjoy.
+
+---
+
+Recipe : Veg Pulao
+    **Ingredients**
+        * 1 cup rice
+        * 1 cup vegetables
+        * 1 tsp cumin seeds
+        * 2 tbsp oil
+        * Salt to taste
+    **Steps**
+        1. Heat oil in cooker.
+        2. Add cumin seeds.
+        3. Add vegetables and sauté.
+        4. Add rice and water.
+        5. Add salt.
+        6. Cook for 2 whistles.
+        7. Let pressure release.
+        8. Serve hot.
+
+---
+
+Recipe : Sambar
+    **Ingredients**
+        * 1 cup toor dal
+        * 1 cup vegetables
+        * 1 tbsp sambar powder
+        * Salt to taste
+    **Steps**
+        1. Cook dal until soft.
+        2. Add vegetables and cook.
+        3. Add sambar powder.
+        4. Add salt.
+        5. Boil for 10 minutes.
+        6. Stir occasionally.
+        7. Adjust consistency.
+        8. Serve hot.
+
+---
+
+Recipe : Idli
+    **Ingredients**
+        * 2 cups idli batter
+        * Oil
+    **Steps**
+        1. Grease idli molds.
+        2. Pour batter into molds.
+        3. Steam for 10 minutes.
+        4. Check if cooked.
+        5. Remove from molds.
+        6. Let cool slightly.
+        7. Serve with chutney.
+        8. Enjoy.
+
+---
+
+Recipe : Dosa
+    **Ingredients**
+        * 2 cups dosa batter
+        * Oil
+    **Steps**
+        1. Heat a pan.
+        2. Pour batter and spread thin.
+        3. Drizzle oil.
+        4. Cook until crispy.
+        5. Flip if needed.
+        6. Cook other side.
+        7. Fold dosa.
+        8. Serve hot.
+
+---
+
+Recipe : Bread Upma
+    **Ingredients**
+        * 4 bread slices
+        * 1 onion (chopped)
+        * 1 tbsp oil
+        * Salt to taste
+    **Steps**
+        1. Cut bread into pieces.
+        2. Heat oil in pan.
+        3. Add onions and sauté.
+        4. Add bread pieces.
+        5. Add salt.
+        6. Mix well.
+        7. Cook for 5 minutes.
+        8. Serve hot.
+
+---
+
+Recipe : Boiled Eggs
+    **Ingredients**
+        * 4 eggs
+        * Water
+        * Salt
+    **Steps**
+        1. Place eggs in pot.
+        2. Add water to cover.
+        3. Boil for 10 minutes.
+        4. Remove and cool.
+        5. Peel shells.
+        6. Sprinkle salt.
+        7. Cut if needed.
+        8. Serve.
+
+---
+
+Recipe : Vegetable Salad
+    **Ingredients**
+        * 1 cucumber
+        * 1 carrot
+        * 1 tomato
+        * Salt to taste
+    **Steps**
+        1. Chop vegetables.
+        2. Mix in bowl.
+        3. Add salt.
+        4. Toss well.
+        5. Chill if needed.
+        6. Serve fresh.
+        7. Optional lemon juice.
+        8. Enjoy.
+
+---
+
+Recipe : Tea
+    **Ingredients**
+        * 1 cup milk
+        * 1 cup water
+        * 1 tsp tea powder
+        * Sugar to taste
+    **Steps**
+        1. Boil water and milk.
+        2. Add tea powder.
+        3. Boil for 3 minutes.
+        4. Add sugar.
+        5. Stir well.
+        6. Strain into cup.
+        7. Serve hot.
+        8. Enjoy.
+
+---
+
+Recipe : Coffee
+    **Ingredients**
+        * 1 cup milk
+        * 1 tsp coffee powder
+        * Sugar to taste
+    **Steps**
+        1. Boil milk.
+        2. Add coffee powder.
+        3. Add sugar.
+        4. Mix well.
+        5. Froth if needed.
+        6. Pour into cup.
+        7. Serve hot.
+        8. Enjoy.
+
+---
+
+Recipe : Banana Shake
+    **Ingredients**
+        * 2 bananas
+        * 1 cup milk
+        * Sugar
+    **Steps**
+        1. Peel bananas.
+        2. Add to blender.
+        3. Add milk and sugar.
+        4. Blend smooth.
+        5. Pour into glass.
+        6. Chill if needed.
+        7. Stir well.
+        8. Serve.
+
+---
+
+Recipe : Maggi Noodles
+    **Ingredients**
+        * 1 packet noodles
+        * 2 cups water
+        * Tastemaker
+    **Steps**
+        1. Boil water.
+        2. Add noodles.
+        3. Add tastemaker.
+        4. Cook for 2 minutes.
+        5. Stir well.
+        6. Cook until soft.
+        7. Turn off heat.
+        8. Serve hot.
+
+---
+
+Recipe : Peanut Chaat
+    **Ingredients**
+        * 1 cup boiled peanuts
+        * 1 onion (chopped)
+        * 1 tomato (chopped)
+        * Salt to taste
+    **Steps**
+        1. Take peanuts in bowl.
+        2. Add onion and tomato.
+        3. Add salt.
+        4. Mix well.
+        5. Add lemon juice (optional).
+        6. Toss well.
+        7. Serve fresh.
+        8. Enjoy.
