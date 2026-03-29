@@ -17,7 +17,6 @@ Recipe : Paneer Butter Masala
         6. Add paneer cubes and cook for 5 minutes.
         7. Add cream and mix well.
         8. Serve hot.
-
 Recipe : Egg Fried Rice
     **Ingredients**
         * 2 cups cooked rice
@@ -35,7 +34,6 @@ Recipe : Egg Fried Rice
         6. Add scrambled eggs and mix.
         7. Cook for 2–3 minutes.
         8. Serve hot.
-
 Recipe : Vegetable Curry
     **Ingredients**
         * 1 cup mixed vegetables
@@ -54,7 +52,6 @@ Recipe : Vegetable Curry
         6. Stir occasionally.
         7. Cook until vegetables are tender.
         8. Serve hot.
-
 Recipe : Lemon Rice
     **Ingredients**
         * 2 cups cooked rice
@@ -72,7 +69,6 @@ Recipe : Lemon Rice
         6. Cook for 2 minutes.
         7. Stir gently.
         8. Serve hot.
-
 Recipe : Chapati
     **Ingredients**
         * 2 cups wheat flour
@@ -87,7 +83,6 @@ Recipe : Chapati
         6. Flip and cook both sides.
         7. Apply ghee if needed.
         8. Serve hot.
-
 Recipe : Curd Rice
     **Ingredients**
         * 2 cups cooked rice
@@ -104,7 +99,6 @@ Recipe : Curd Rice
         6. Adjust salt.
         7. Chill if desired.
         8. Serve.
-
 Recipe : Poha
     **Ingredients**
         * 1 cup poha
@@ -121,7 +115,6 @@ Recipe : Poha
         6. Mix well.
         7. Cook for 3 minutes.
         8. Serve hot.
-
 Recipe : Omelette Sandwich
     **Ingredients**
         * 2 bread slices
@@ -138,7 +131,6 @@ Recipe : Omelette Sandwich
         6. Cut into halves.
         7. Serve hot.
         8. Enjoy.
-
 Recipe : Veg Pulao
     **Ingredients**
         * 1 cup rice
@@ -155,7 +147,6 @@ Recipe : Veg Pulao
         6. Cook for 2 whistles.
         7. Let pressure release.
         8. Serve hot.
-
 Recipe : Sambar
     **Ingredients**
         * 1 cup toor dal
@@ -171,7 +162,6 @@ Recipe : Sambar
         6. Stir occasionally.
         7. Adjust consistency.
         8. Serve hot.
-
 Recipe : Idli
     **Ingredients**
         * 2 cups idli batter
@@ -185,7 +175,6 @@ Recipe : Idli
         6. Let cool slightly.
         7. Serve with chutney.
         8. Enjoy.
-
 Recipe : Dosa
     **Ingredients**
         * 2 cups dosa batter
@@ -199,7 +188,6 @@ Recipe : Dosa
         6. Cook other side.
         7. Fold dosa.
         8. Serve hot.
-
 Recipe : Bread Upma
     **Ingredients**
         * 4 bread slices
@@ -215,7 +203,6 @@ Recipe : Bread Upma
         6. Mix well.
         7. Cook for 5 minutes.
         8. Serve hot.
-
 Recipe : Boiled Eggs
     **Ingredients**
         * 4 eggs
@@ -230,7 +217,6 @@ Recipe : Boiled Eggs
         6. Sprinkle salt.
         7. Cut if needed.
         8. Serve.
-
 Recipe : Vegetable Salad
     **Ingredients**
         * 1 cucumber
@@ -246,7 +232,6 @@ Recipe : Vegetable Salad
         6. Serve fresh.
         7. Optional lemon juice.
         8. Enjoy.
-
 Recipe : Tea
     **Ingredients**
         * 1 cup milk
@@ -262,7 +247,6 @@ Recipe : Tea
         6. Strain into cup.
         7. Serve hot.
         8. Enjoy.
-
 Recipe : Coffee
     **Ingredients**
         * 1 cup milk
@@ -277,7 +261,6 @@ Recipe : Coffee
         6. Pour into cup.
         7. Serve hot.
         8. Enjoy.
-
 Recipe : Banana Shake
     **Ingredients**
         * 2 bananas
@@ -292,7 +275,6 @@ Recipe : Banana Shake
         6. Chill if needed.
         7. Stir well.
         8. Serve.
-
 Recipe : Maggi Noodles
     **Ingredients**
         * 1 packet noodles
@@ -307,7 +289,6 @@ Recipe : Maggi Noodles
         6. Cook until soft.
         7. Turn off heat.
         8. Serve hot.
-
 Recipe : Peanut Chaat
     **Ingredients**
         * 1 cup boiled peanuts
